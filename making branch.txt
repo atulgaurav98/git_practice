@@ -1,0 +1,13 @@
+These commands are for making a developers own branch and pushing the code in same branch.
+--------------------------------------------------------------------------------------------
+1)This command is for creating a new branch(if not created ) and also for changing the branch for pushing code in some other branch.
+
+	git checkout -b "branch_name"
+	
+2)	git add .
+
+3)	git commit -m "comments"
+
+4)Pushing the command to branch specified above and since it is for the first time origin has to be specified.
+
+	git push -u origin branch_name
