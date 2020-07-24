@@ -1,0 +1,8 @@
+How to clone a repository from github to our local storage?
+---------------------------------------------------------------------------------
+1)Copy the repository's url
+2)Open cmd and move to the directory where you want the repository to be copied.
+3)finally--
+	git clone (repository's URL)
+	
+----------------------------------------------------------------------------------
