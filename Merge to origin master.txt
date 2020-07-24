@@ -1,0 +1,3 @@
+> To merge a branch with the master branch,the branch's developer has to raise a compare and pull request.
+> Creating a pull request.(In real time reviewers are also added but in paid edition of git)
+> If the branch's code found to be good then confirm merge(by the master branch controller)
