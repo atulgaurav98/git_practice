@@ -1,5 +1,9 @@
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/atulgaurav98/git_practice.git
-git push -u origin master
+These are the series of command for first commit of any code/file/folder to the master branch.
+-----------------------------------------------------------------------------------------------
+git init     //for initialising the local folder as git
+git add .    //changing the work directory to staging area
+git commit -m "first commit"    //commit the code/file/folder.since it is first time so
+                                   commits to local folder first 
+git remote add origin https://github.com/atulgaurav98/git_practice.git //for connecting the local git 
+                                                                          folder to online git folder
+git push -u origin master                //pushing to master
