@@ -1,0 +1,17 @@
+These are the commands for recommiting in the same master or branch.
+-------------------------------------------------------------------------
+1)Since folder already initialised with git so no need for re-initialising again.
+
+2)But the changed file or added file/folder has to be brought to staging area for commiting and pushing.
+ 
+   git add .
+   
+3)commit the changes..
+  
+   git commit -m "second time commit"
+   
+4)connection already established with the online git to local git so no need for 2nd time git remote command.
+   
+5)pushing the committed changes..
+
+   git push    //no need to specify origin master as first commit was already in the same origin 
