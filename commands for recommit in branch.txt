@@ -1,0 +1,6 @@
+These are the commands to recommmit changes in same branch.
+----------------------------------------------------------------
+1)no need to specify checkout as it is the same branch we want to commit and push.
+2)	git add .
+3)	git commit -m "comments"
+4)  git push
